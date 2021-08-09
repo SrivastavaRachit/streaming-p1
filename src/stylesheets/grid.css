@@ -1,0 +1,27 @@
+.abc{
+    margin-top: 1%;
+}
+
+.my-card{
+    background-color: orange;
+
+}
+.my-card:hover{
+    background-color: rgb(0, 173, 241);
+    transform: scale(1.1);
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+    border-radius: 0;
+    border: 0;
+}
+h3{
+    color: black;
+}
+.my-card {
+    transition: transform 0.2s ease;
+  }
+  .my-card {
+    box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
+    border-radius: 0;
+    border: 0;
+  }
+ 
