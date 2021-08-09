@@ -81,7 +81,7 @@ export default function Grid() {
                         src="
                         https://th.bing.com/th/id/OIP.E5qnPgAaeLkaMsZfTYOaEwHaK-?w=205&h=304&c=7&o=5&dpr=1.25&pid=1.7" alt=""/>
                     <div className="card-body">
-                        <h3>Anabelle</h3>
+                        <h3>Annabelle</h3>
                         {/* <p className="text-muted">9.2</p> */}
                         <a href="https://www.youtube.com/watch?v=KisPhy7T__Q">
                         <button className="btn btn-success mt-4 float-end">Watch Now</button>
@@ -127,7 +127,7 @@ export default function Grid() {
            <h3>Scam 1992</h3>
             {/* <p className="text-muted">9.2</p> */}
            
-           <button  className="btn btn-success mt-4 float-end"  > Watch Now</button>
+           <button  className="btn btn-success mt-4 float-end"> Watch Now</button>
            
           </div>
 </div>
